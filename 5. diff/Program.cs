@@ -1,4 +1,3 @@
-﻿int numA = 5
-int numB = 13
-int result (numA-numB)
-Console.WriteLine(result)
+﻿double numberA = 5;
+double numberB = 13;
+Console.WriteLine(numberA / numberB);
