@@ -5,5 +5,4 @@ Console.WriteLine (username);
 Console.Write("Введите Вашу фамилию!");
 string userlastname = Console.ReadLine();
 Console.Write ("Привет, ");
-Console.Write (username);
-Console.Write (userlastname);
+Console.Write (username + userlastname);
